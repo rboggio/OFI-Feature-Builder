@@ -1,4 +1,4 @@
-# Order‑Flow Imbalance (OFI) Feature Engineering Toolkit
+# Order‑Flow Imbalance (OFI) Feature Engineering
 
 This repository contains a toolkit for recreating the **best‑level, multi‑level, integrated and cross‑asset OFI** features described in Cont, Cucuringu & Zhang (2024) *“Cross‑Impact of Order Flow Imbalance in Equity Markets.”*
 
